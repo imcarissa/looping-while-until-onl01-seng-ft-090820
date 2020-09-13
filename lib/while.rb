@@ -5,5 +5,6 @@ def using_while(phrase = "Wingardium Leviosa")
   levitation_force += 1
   puts "#{phrase}""
 end
+end
 
 
